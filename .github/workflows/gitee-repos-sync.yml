@@ -12,7 +12,7 @@ name: Gitee repos mirror periodic sync job
 
 on:
   # push推送时触发
-  #push:
+  push:
    branches: [ master ]
   # 定时任务触发
   schedule:
