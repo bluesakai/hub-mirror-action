@@ -6,7 +6,7 @@
 #https://github.com/Yikun/hub-mirror-action/blob/master/README_CN.md
 #https://help.github.com/cn/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets
 #
-# 建议先在gitee上先导入github的项目，再编辑此文件增加同步功能。这样就能利用好gitee的强制同步功能了。
+# 建议先在gitee上先导入github的项目，再编辑此文件增加同步功能。这样就能利用好gitee的强制同步功能了!
 ########################################
 name: Gitee repos mirror periodic sync job
 
