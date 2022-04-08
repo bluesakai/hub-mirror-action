@@ -40,7 +40,7 @@ jobs:
         #  需要被同步的源端账户名，如github/bluesakai，表示Github的bluesakai账户。
         src: github/bluesakai
         # 需要同步到的目的端账户名，如gitee/bluesakai，表示Gitee的bluesakai账户。
-        dst: gitee/qtest123
+        dst: gitee/canaan-creative_0
         # 用于目的端上传代码的SSH key，用于上传代码
         dst_key: ${{ secrets.GITEE_PRIVATE_SSH_KEY }}
         # 创建仓库的API tokens， 用于自动创建不存在的仓库
